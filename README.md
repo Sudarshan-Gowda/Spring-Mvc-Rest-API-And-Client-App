@@ -90,7 +90,8 @@ File -> Import -> Maven -> Existing Maven project
 	```
    
 ## User reference or guide.
-  Application Landing Page: [click here](https://github.com/Sudarshan-Gowda/Spring-Mvc-Rest-API-And-Client-App/blob/master/docs/picture1.png)
+  Application Landing Page: [click here](https://github.com/Sudarshan-Gowda/Spring-Mvc-Rest-API-And-Client-	App/blob/master/docs/picture1.png)
+  
   Client App Result Page: [click here](https://github.com/Sudarshan-Gowda/Spring-Mvc-Rest-API-And-Client-App/blob/master/docs/picture9.png)
 
 # Contributing
