@@ -21,7 +21,7 @@ Our issue tracker is available here: https://github.com/Sudarshan-Gowda/Spring-M
 
 ### prerequisites
 The following items should be installed in your system:
-* Toor - STS(Spring Toot Suite) or Eclipse
+* Tool - STS(Spring Toot Suite) or Eclipse
 * Server - Apache Tomcat 7
 * Database - MySQL
 * Postman - Optional (Can use client API)
@@ -90,9 +90,11 @@ File -> Import -> Maven -> Existing Maven project
 	```
    
 ## User reference or guide.
-  1. Application Landing Page: [click here](https://github.com/Sudarshan-Gowda/Spring-Mvc-Rest-API-And-Client-	App/blob/master/docs/picture1.png)
+  1. Application Landing Page: [click here]
+  (https://github.com/Sudarshan-Gowda/Spring-Mvc-Rest-API-And-Client-App/blob/master/docs/picture1.png)
   
- 2. Client App Result Page: [click here](https://github.com/Sudarshan-Gowda/Spring-Mvc-Rest-API-And-Client-App/blob/master/docs/picture9.png)
+ 2. Client App Result Page: [click here]
+ (https://github.com/Sudarshan-Gowda/Spring-Mvc-Rest-API-And-Client-App/blob/master/docs/picture9.png)
 
 # Contributing
 
