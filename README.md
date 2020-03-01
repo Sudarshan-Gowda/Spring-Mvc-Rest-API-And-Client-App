@@ -14,7 +14,7 @@ You can then access Restfull here: https://github.com/Sudarshan-Gowda/Spring-Mvc
 
 
 ## In case you find a bug/suggested improvement for Spring Restfull Webservices
-Our issue tracker is available here: hhttps://github.com/Sudarshan-Gowda/Spring-Mvc-Rest-API-And-Client-App/issues
+Our issue tracker is available here: https://github.com/Sudarshan-Gowda/Spring-Mvc-Rest-API-And-Client-App/issues
 
 
 ## Working with Rest in Eclipse
